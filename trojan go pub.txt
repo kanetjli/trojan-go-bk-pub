@@ -1,0 +1,11 @@
+原版     bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_install/master/trojan-go_install.sh)"
+
+
+
+自制    bash -c "$(curl -fsSL https://raw.githubusercontent.com/kanetjli/trojan-go-bk-pub/master/trojan-go_install.sh)"
+
+
+
+
+
+自制  bash -c "$(curl -fsSL https://git.io/JfH0R)"
